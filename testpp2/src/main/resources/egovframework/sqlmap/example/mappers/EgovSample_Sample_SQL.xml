@@ -94,7 +94,7 @@
         SELECT * FROM codata1
     </select>
     
-    <select id="selectSample13333333" resultType="hashmap">
+	<select id="selectSample1444" resultType="hashmap">
         SELECT * FROM codata1
     </select>
 
